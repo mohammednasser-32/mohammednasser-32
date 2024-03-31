@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I am Mohammed Nasser</h1>
 <h3 align="center">A backend focused fullstack developer</h3>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
 <img align="center" src="https://i.ibb.co/64NvYPp/Me-white-outline.png" height="400" style="margin-right: 20px" />
 </div>
 
