@@ -1,7 +1,9 @@
 <h1 align="center">Hey there! I am Mohammed Nasser</h1>
 <h3 align="center">A backend focused fullstack developer</h3>
 <div style="display: flex; justify-content: center; align-items: center;">
-<img align="center" src="https://i.ibb.co/64NvYPp/Me-white-outline.png" height="400" style="margin-right: 20px" />
+  <div>
+    <img align="center" src="https://i.ibb.co/64NvYPp/Me-white-outline.png" height="400" style="margin-right: 20px" />
+  </div>
 </div>
 
 - 🧑‍💻 I’m currently working at [Job&Talent](https://www.linkedin.com/company/jobandtalent)
@@ -11,10 +13,10 @@
 - 🎨 I am also a cartoonist and I do a lot of tech comics that you can find on my <a href="https://linkedin.com/in/nasserjr">Linkedin</a>
 
 <div style="display: flex; justify-content: center;">
-<img align="center" src="https://i.ibb.co/L9m5PLQ/cookies1.png" height="300" style="margin-right: 20px" />
-<img align="center" src="https://i.ibb.co/61wjK43/cookies2.png" height="300" style="margin-right: 20px" />
-<img align="center" src="https://i.ibb.co/nzvKgQf/cookies3.png" height="300" style="margin-right: 20px" />
-<img align="center" src="https://i.ibb.co/Jy95ykb/cookies4.png" height="300" style="margin-right: 20px" />
+<img align="center" src="https://i.ibb.co/L9m5PLQ/cookies1.png" height="250" style="margin-right: 20px" />
+<img align="center" src="https://i.ibb.co/61wjK43/cookies2.png" height="250" style="margin-right: 20px" />
+<img align="center" src="https://i.ibb.co/nzvKgQf/cookies3.png" height="250" style="margin-right: 20px" />
+<img align="center" src="https://i.ibb.co/Jy95ykb/cookies4.png" height="250" style="margin-right: 20px" />
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
