@@ -1,9 +1,7 @@
 <h1 align="center">Hey there! I am Mohammed Nasser</h1>
 <h3 align="center">A backend focused fullstack developer</h3>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div>
-    <img align="center" src="https://i.ibb.co/64NvYPp/Me-white-outline.png" height="400" style="margin-right: 20px" />
-  </div>
+<div style="display: flex; justify-content: center; margin-left: 100px;">
+  <img align="center" src="https://i.ibb.co/64NvYPp/Me-white-outline.png" height="400" style="margin-right: 20px" />
 </div>
 
 - 🧑‍💻 I’m currently working at [Job&Talent](https://www.linkedin.com/company/jobandtalent)
